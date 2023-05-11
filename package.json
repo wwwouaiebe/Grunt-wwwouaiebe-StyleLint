@@ -1,0 +1,26 @@
+{
+  "name": "grunt-wwwouaiebe-stylelint",
+  "version": "1.0.0",
+  "description": "A fork of https://github.com/wikimedia/grunt-stylelint",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wwwouaiebe/grunt-wwwouaiebe-stylelint.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "checker",
+    "stylelint"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwwouaiebe/grunt-wwwouaiebe-stylelint/issues"
+  },
+  "homepage": "https://github.com/wwwouaiebe/grunt-wwwouaiebe-stylelint",
+  "dependencies": {
+    "chalk": "latest",
+    "stylelint": "latest"
+  },
+  "engines": {
+    "node": ">=18.16"
+  }
+}
